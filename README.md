@@ -21,6 +21,8 @@ Add / Update / Delete products Dashboard with inventory summary Low stock alerts
 
 📊 APIs /add → Add product /products → Get all products /update/{id} → Update /delete/{id} → Delete /alerts → Low stock /dashboard → Summary /auth/login → Login
 
+https://drive.google.com/file/d/16ZiMgRCvcnsKQkq-kB3nR5i8u-G9zsEp/view?usp=drive_link
+
 Team Members:
 
 Sakshi
